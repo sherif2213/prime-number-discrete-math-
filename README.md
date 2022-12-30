@@ -1,1 +1,1 @@
-# prime-number-discrete-math-
+# prime-number-perfect-number-discrete-math-
