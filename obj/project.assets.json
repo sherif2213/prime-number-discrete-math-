@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\prime number\\prime number\\prime number.csproj",
-      "projectName": "prime number",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\prime number\\prime number\\prime number.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\perfect number 1\\perfect number 1\\perfect number 1.csproj",
+      "projectName": "perfect number 1",
+      "projectPath": "C:\\Users\\lenovo\\source\\repos\\perfect number 1\\perfect number 1\\perfect number 1.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\prime number\\prime number\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\source\\repos\\perfect number 1\\perfect number 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
